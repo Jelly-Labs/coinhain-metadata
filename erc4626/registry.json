@@ -1,0 +1,26 @@
+{
+  "bsc": {
+    "0x36B22E03bC9f8d08109CA4bB36241e3bFb7077fA": {
+      "asset": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "USDT",
+      "summary": "safe",
+      "review": "./StatATokenV2Review.md",
+      "warnings": [
+        "buffer"
+      ],
+      "canUseBufferForSwaps": false,
+      "useUnderlyingForAddRemove": false,
+      "useWrappedForAddRemove": true
+    },
+    "0x50cff7e5c7d76a1e8a089625178614c0de63cbe8": {
+      "asset": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "USDT",
+      "summary": "safe",
+      "review": "./StatATokenV2Review.md",
+      "warnings": [],
+      "canUseBufferForSwaps": true,
+      "useUnderlyingForAddRemove": true,
+      "useWrappedForAddRemove": true
+    }
+  }
+}
