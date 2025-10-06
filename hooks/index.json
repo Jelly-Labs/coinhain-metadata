@@ -6,7 +6,10 @@
     "learnMore": "https://coinhain.fi/",
     "addresses": {
       "56": [
-        "0x0TODO"
+        "0xbb1e149Cb91867303d6224B4e735415c115D1fe2"
+      ],
+      "97": [
+        "0x4ffbbdea67cede852bfb17243463502f33473092"
       ]
     }
   }
