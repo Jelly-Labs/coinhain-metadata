@@ -1,0 +1,151 @@
+{
+  "name": "Coinhain Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "Coinhain",
+    "DeFi",
+    "DEX",
+    "AMM",
+    "Exchange",
+    "Liquidity",
+    "Pool",
+    "Token",
+    "Swap"
+  ],
+  "timestamp": "2025-10-01T10:00:00.461Z",
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0x87b9D6692Bb031F4737aF6683B79F4eE0B9cC413",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 97,
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "name": "Wrapped BNB",
+      "symbol": "wBNB",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1696522182"
+    },
+    {
+      "chainId": 97,
+      "address": "0x50574f2B56082C6DFE062dc20A3bfBF623193b5f",
+      "name": "FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1696522182"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Binance-Peg BSC-USD (BSC-USD)",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/usdt.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/usdc.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+      "name": "World Liberty Financial",
+      "symbol": "USD1",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/usd1.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x9356086146be5158e98ad827e21b5cf944699894",
+      "name": "BEP-20: USDa (USDa)",
+      "symbol": "USDa",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/usda.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x5a110fc00474038f6c02e89c707d638602ea44b5",
+      "name": "Astherus USDF",
+      "symbol": "USDF",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/usdf.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122",
+      "name": "StandX DUSD",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/dusd.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x5519a479Da8Ce3Af7f373c16f14870BbeaFDa265",
+      "name": "bnb USD",
+      "symbol": "bnbUSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/busd.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x64748ea3E31d0B7916F0fF91b017B9f404DED8eF",
+      "name": "Compounding Open Dollar",
+      "symbol": "cUSDO",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/cusdo.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "wBNB",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/wbnb.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "name": "Binance-Peg Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/weth.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "name": "Binance-Peg BTCB Token",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/btcb.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x36B22E03bC9f8d08109CA4bB36241e3bFb7077fA",
+      "name": "lukaBoostedUSDT",
+      "symbol": "lbUSDT",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 56,
+      "address": "0x50cff7e5c7d76a1e8a089625178614c0de63cbe8",
+      "name": "lukaBoostedUSDC",
+      "symbol": "lbUSDC",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
+
