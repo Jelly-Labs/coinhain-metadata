@@ -1,0 +1,13 @@
+[
+  {
+    "id": "hooks_stablesurge",
+    "name": "StableSurge",
+    "description": "This hook helps defend the peg of new Stablecoin / LRT assets by applying a dynamic surge fee in times of volatility. LPs are rewarded with increased swap fee revenue and MEV protection.",
+    "learnMore": "https://coinhain.fi/",
+    "addresses": {
+      "56": [
+        "0x0TODO"
+      ]
+    }
+  }
+]

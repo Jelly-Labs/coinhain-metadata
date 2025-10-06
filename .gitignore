@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+.DS_Store
+.env.sample
+.env.dev
+.env
+node_modules/
+*-debug.log
+*-error.log
+
+debug
+debug.ts
+i18n/*
+google-service-account.json
+app.json
+
+.env*
