@@ -1,5 +1,9 @@
 {
-  "56": {
-    "0x0BLOCKEDTOKENADDREESS": "TODO_REASON"
-  }
+  "56": [
+    {
+      "address": "0x0BLOCKEDTOKENADDREESS",
+      "reason": "Malicious activity",
+      "protocolVersion": "3"
+    }
+  ]
 }
