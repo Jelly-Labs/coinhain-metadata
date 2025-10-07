@@ -3,7 +3,7 @@
     "id": "boosted_aave",
     "name": "Aave Boosted",
     "description": "This Boosted pool's underlying mechanics are powered by wrapped Aave tokens, which generate yield from lending activities on the Aave protocol, resulting in continuous appreciation of the pool's total value.",
-    "icon": "aave_boosted.png",
+    "icon": "https://cdn.coinhain.fi/asset/protocol/aave.svg",
     "readMoreURL": "https://aave.com/faq",
     "addresses": {
       "56": [
