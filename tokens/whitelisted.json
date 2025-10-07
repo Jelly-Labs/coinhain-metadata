@@ -145,6 +145,126 @@
       "symbol": "lbUSDC",
       "decimals": 18,
       "logoURI": ""
+    },
+    {
+      "chainId": 56,
+      "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+      "name": "Aster",
+      "symbol": "ASTER",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/aster.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xe6DF05CE8C8301223373CF5B969AFCb1498c5528",
+      "name": "KOGE",
+      "symbol": "KOGE",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/koge.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x405FBc9004D857903bFD6b3357792D71a50726b0",
+      "name": "Plasma",
+      "symbol": "XPL",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/xpl.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/frxeth.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x3Cd55356433C89E50DC51aB07EE0fa0A95623D53",
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/sfrxeth.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xa63f56985f9c7f3bc9ffc5685535649e0c1a55f3",
+      "name": "Staked Frax",
+      "symbol": "sFRAX",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/sfrax.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/frax.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/frax.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "name": "FDUSD",
+      "symbol": "FDUSD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 56,
+      "address": "0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C",
+      "name": "wstETH",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 56,
+      "address": "0x8dedf84656fa932157e27c060d8613824e7979e3",
+      "name": "STBL",
+      "symbol": "STBL",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/stbl.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xb994882a1b9bd98a71dd6ea5f61577c42848b0e8",
+      "name": "World of Dypians",
+      "symbol": "WOD",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/wod.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xbe7e12b2e128bc955a0130ffb168f031d7dd8d58",
+      "name": "BOOST",
+      "symbol": "BOOST",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/boost.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
+      "name": "Quq",
+      "symbol": "QUQ",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/quq.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x477c2c0459004e3354ba427fa285d7c053203c0e",
+      "name": "BitLight",
+      "symbol": "LIGHT",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/light.svg"
     }
   ]
 }
