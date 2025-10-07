@@ -133,16 +133,16 @@
     {
       "chainId": 56,
       "address": "0x36B22E03bC9f8d08109CA4bB36241e3bFb7077fA",
-      "name": "lukaBoostedUSDT",
-      "symbol": "lbUSDT",
+      "name": "lukaBoostedUSDC",
+      "symbol": "lbUSDC",
       "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 56,
       "address": "0x50cff7e5c7d76a1e8a089625178614c0de63cbe8",
-      "name": "lukaBoostedUSDC",
-      "symbol": "lbUSDC",
+      "name": "lukaBoostedUSDT",
+      "symbol": "lbUSDT",
       "decimals": 18,
       "logoURI": ""
     },
