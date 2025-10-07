@@ -216,7 +216,7 @@
       "name": "FDUSD",
       "symbol": "FDUSD",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/fdusd.svg"
     },
     {
       "chainId": 56,
@@ -224,7 +224,7 @@
       "name": "wstETH",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/wsteth.svg"
     },
     {
       "chainId": 56,
