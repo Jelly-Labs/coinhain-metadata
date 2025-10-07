@@ -1,8 +1,8 @@
 {
   "bsc": {
     "0x36B22E03bC9f8d08109CA4bB36241e3bFb7077fA": {
-      "asset": "0x55d398326f99059fF775485246999027B3197955",
-      "name": "USDT",
+      "asset": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USDC",
       "summary": "safe",
       "review": "./StatATokenV2Review.md",
       "warnings": [
