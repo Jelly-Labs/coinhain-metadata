@@ -133,16 +133,16 @@
     {
       "chainId": 56,
       "address": "0x36B22E03bC9f8d08109CA4bB36241e3bFb7077fA",
-      "name": "lukaBoostedUSDC",
-      "symbol": "lbUSDC",
+      "name": "Aave USDC Vault Shares",
+      "symbol": "waBscUSDC",
       "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 56,
       "address": "0x50cff7e5c7d76a1e8a089625178614c0de63cbe8",
-      "name": "lukaBoostedUSDT",
-      "symbol": "lbUSDT",
+      "name": "Aave USDT Vault Shares",
+      "symbol": "waBscUSDT",
       "decimals": 18,
       "logoURI": ""
     },
