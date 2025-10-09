@@ -24,7 +24,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/usdc.svg"
     },
     {
       "chainId": 97,
@@ -32,7 +32,7 @@
       "name": "Wrapped BNB",
       "symbol": "wBNB",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1696522182"
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/wbnb.svg"
     },
     {
       "chainId": 97,
@@ -40,7 +40,7 @@
       "name": "FRAX",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1696522182"
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/frax.svg"
     },
     {
       "chainId": 56,
