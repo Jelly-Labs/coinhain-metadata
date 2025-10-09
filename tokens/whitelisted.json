@@ -136,7 +136,7 @@
       "name": "Aave USDC Vault Shares",
       "symbol": "waBscUSDC",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/wabscusdc.svg"
     },
     {
       "chainId": 56,
@@ -144,7 +144,7 @@
       "name": "Aave USDT Vault Shares",
       "symbol": "waBscUSDT",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/wabscusdt.svg"
     },
     {
       "chainId": 56,
