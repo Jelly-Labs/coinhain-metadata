@@ -265,7 +265,7 @@
       "symbol": "LIGHT",
       "decimals": 18,
       "logoURI": "https://cdn.coinhain.fi/asset/tokens/light.svg"
-    }
+    },
     {
       "chainId": 56,
       "address": "0xfdeb3cf6f7ead01d9c6468dce89082021ecb1238",
