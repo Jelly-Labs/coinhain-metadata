@@ -213,7 +213,7 @@
     {
       "chainId": 56,
       "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
-      "name": "FDUSD",
+      "name": "First Digital USD",
       "symbol": "FDUSD",
       "decimals": 18,
       "logoURI": "https://cdn.coinhain.fi/asset/tokens/fdusd.svg"
