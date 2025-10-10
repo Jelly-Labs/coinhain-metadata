@@ -5,6 +5,7 @@
       "name": "USDC",
       "summary": "safe",
       "review": "./StatATokenV2Review.md",
+      "warnings": [],
       "canUseBufferForSwaps": false,
       "useUnderlyingForAddRemove": false,
       "useWrappedForAddRemove": true
