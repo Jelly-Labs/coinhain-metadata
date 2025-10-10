@@ -1,4 +1,31 @@
 {
   "bsc": {
+    "0x96eD3F7675BbAf4916364dc2EB910b4974239815": {
+      "asset": "0x50cff7e5c7d76a1e8a089625178614c0de63cbe8",
+      "name": "Coinhain Rate Provider",
+      "summary": "safe",
+      "review": "./RateProviders.md",
+      "warnings": [],
+      "factory": "0xE40cd88d1eC25e7A8e787630f4e215A68aB07129",
+      "upgradeableComponents": []
+    },
+    "0x14c72046105eb2aad5cc8de3a01f9b5cd8e5842c": {
+      "asset": "0x36B22E03bC9f8d08109CA4bB36241e3bFb7077fA",
+      "name": "Coinhain Rate Provider",
+      "summary": "safe",
+      "review": "./RateProviders.md",
+      "warnings": [],
+      "factory": "0xE40cd88d1eC25e7A8e787630f4e215A68aB07129",
+      "upgradeableComponents": []
+    },
+    "0xb7E8Ef099FcC8cEcc0c76296FCe98B7A8f781aB4": {
+      "asset": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+      "name": "Coinhain Rate Provider",
+      "summary": "safe",
+      "review": "./RateProviders.md",
+      "warnings": [],
+      "factory": "0xE40cd88d1eC25e7A8e787630f4e215A68aB07129",
+      "upgradeableComponents": []
+    }
   }
 }
