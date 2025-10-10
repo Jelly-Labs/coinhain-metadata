@@ -272,7 +272,7 @@
       "name": "Aave FDUSD Vault Shares",
       "symbol": "waBscFDUSD",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/wabscfdusd.svg"
     }
   ]
 }
