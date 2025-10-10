@@ -26,6 +26,24 @@
       "warnings": [],
       "factory": "0xE40cd88d1eC25e7A8e787630f4e215A68aB07129",
       "upgradeableComponents": []
+    },
+    "0xafdc87798801acc765d0a9e13c2b36c322fec64a": {
+      "asset": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "name": "Coinhain Rate Provider",
+      "summary": "safe",
+      "review": "./RateProviders.md",
+      "warnings": [],
+      "factory": "0xE40cd88d1eC25e7A8e787630f4e215A68aB07129",
+      "upgradeableComponents": []
+    },
+    "0x7675EEF6FbE87c471D839876B0Cc608C7C9BbFf6": {
+      "asset": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Coinhain Rate Provider",
+      "summary": "safe",
+      "review": "./RateProviders.md",
+      "warnings": [],
+      "factory": "0xE40cd88d1eC25e7A8e787630f4e215A68aB07129",
+      "upgradeableComponents": []
     }
   }
 }
