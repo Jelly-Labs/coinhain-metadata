@@ -19,7 +19,7 @@
       "upgradeableComponents": []
     },
     "0xb7E8Ef099FcC8cEcc0c76296FCe98B7A8f781aB4": {
-      "asset": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+      "asset": "0xfdeb3cf6f7ead01d9c6468dce89082021ecb1238",
       "name": "Coinhain Rate Provider",
       "summary": "safe",
       "review": "./RateProviders.md",
