@@ -87,7 +87,7 @@
       "address": "0xaf44A1E76F56eE12ADBB7ba8acD3CbD474888122",
       "name": "StandX DUSD",
       "symbol": "DUSD",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://cdn.coinhain.fi/asset/tokens/dusd.svg"
     },
     {
