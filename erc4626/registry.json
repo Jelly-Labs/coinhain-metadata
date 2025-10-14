@@ -6,8 +6,8 @@
       "summary": "safe",
       "review": "./StatATokenV2Review.md",
       "warnings": [],
-      "canUseBufferForSwaps": false,
-      "useUnderlyingForAddRemove": false,
+      "canUseBufferForSwaps": true,
+      "useUnderlyingForAddRemove": true,
       "useWrappedForAddRemove": true
     },
     "0x50cff7e5c7d76a1e8a089625178614c0de63cbe8": {
