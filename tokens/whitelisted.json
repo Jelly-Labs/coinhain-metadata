@@ -273,6 +273,22 @@
       "symbol": "waBscFDUSD",
       "decimals": 18,
       "logoURI": "https://cdn.coinhain.fi/asset/tokens/wabscfdusd.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3",
+      "name": "Tutorial",
+      "symbol": "TUT",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/tut.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "name": "Ethena Staked USDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "logoURI": "https://cdn.coinhain.fi/asset/tokens/susde.svg"
     }
   ]
 }
